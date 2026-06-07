@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": "dba4",
+      "fName": "amol",
+      "lName": "waingonkar",
+      "age": "22",
+      "city": "mumbai"
+    },
+    {
+      "id": "ed08",
+      "fName": "Kaustubh",
+      "lName": "Rawool",
+      "age": "22",
+      "city": "malgoan"
+    },
+    {
+      "id": "491a",
+      "fName": "sagar",
+      "lName": "band",
+      "age": "22",
+      "city": "sawantwadi"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "register": [
+    {
+      "id": "44cf",
+      "userEmail": "nilesh@gamil.com1",
+      "userPassword": "1234"
+    },
+    {
+      "id": "e848",
+      "userEmail": "amol@gmail.com",
+      "userPassword": "amol"
+    },
+    {
+      "id": "9cbc",
+      "userEmail": "rohan@gmail.com",
+      "userPassword": "rohan"
+    },
+    {
+      "id": "cc8f",
+      "userEmail": "nileshmargaj@gmail.com",
+      "userPassword": "1234"
+    },
+    {
+      "id": "d113",
+      "userEmail": "nileshmargaj@gmail.com",
+      "userPassword": "nilesh1234"
+    }
+  ]
+}
