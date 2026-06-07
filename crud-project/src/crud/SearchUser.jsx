@@ -1,7 +1,9 @@
 import React, { useEffect, useState } from 'react'
 import InputSearch from './InputSearch'
 import axios from 'axios'
-import DisplaySearch from './displaySearch'
+
+import DisplaySearch from './DisplaySearch'
+
 
 const SearchUser = () => {
   const [seachInput, setSearchInpt] = useState('')
